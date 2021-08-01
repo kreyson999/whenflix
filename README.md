@@ -1,5 +1,7 @@
 # whenflix
 
+![image](https://github.com/kreyson999/whenflix/blob/main/image.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
